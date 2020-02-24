@@ -1,2 +1,1 @@
-# battle-game
-a exercise about c#
+# battle-game a game exercise about c# consloe
