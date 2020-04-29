@@ -16,7 +16,7 @@ namespace rpg
             this.level = level;
             this.money = money;
         }
-        public void Levelupdate(Monster monster)
+        public void Levelupdate(Monster monster)//玩家升级
         {   
             int exp_advancepoint = 100+(level-1)*100;
             if(monster.name== "网络安全警卫")
